@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://arch.nexellab.com/icon.svg">
-        <img width="140" alt="Logo for A1" src="https://arch.nexellab.com/icon.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://orion.theiceji.com/TheIceJi_icon_whiteBg.png">
+        <img width="140" alt="Logo for A1" src="https://orion.theiceji.com/TheIceJi_icon_blackBg.png">
     </picture>
 </p>
 
