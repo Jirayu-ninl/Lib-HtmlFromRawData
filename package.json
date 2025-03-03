@@ -1,28 +1,28 @@
 {
     "name": "@theiceji/html-from-raw-data",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.tsx",
+    "version": "1.0.1",
+    "description": "Render React html from raw json schema",
+    "main": "src/index.tsx",
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Jirayu-ninl/Lib-HtmlFromRawData.git"
+        "type": "git",
+        "url": "git+https://github.com/Jirayu-ninl/Lib-HtmlFromRawData.git"
     },
     "bugs": {
-      "url": "https://github.com/Jirayu-ninl/Lib-HtmlFromRawData/issues"
+        "url": "https://github.com/Jirayu-ninl/Lib-HtmlFromRawData/issues"
     },
     "scripts": {},
     "keywords": [],
     "author": "Jirayu Ninlapun",
     "license": "MIT",
     "dependencies": {
-      "next": "^14.2.18",
-      "react": "^18.3.1",
-      "react-dom": "^18.3.1"
+        "next": "^14.2.18",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
     },
     "devDependencies": {
-      "@types/node": "^22.9.1",
-      "@types/react": "^18.3.12",
-      "typescript": "^5.6.3"
-    }
-  }
-  
+        "@types/node": "^22.9.1",
+        "@types/react": "^18.3.12",
+        "typescript": "^5.6.3"
+    },
+    "homepage": "https://github.com/Jirayu-ninl/Lib-HtmlFromRawData#readme"
+}
